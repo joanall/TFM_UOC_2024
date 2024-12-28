@@ -1,0 +1,31 @@
+,Characteristic,Value
+0,Sex,
+1,  Hombre,3006 (50.1%)
+2,  Mujer,2994 (49.9%)
+3,Diagnosis,
+4,  diabetic,3000 (50.0%)
+5,  non_diabetic,3000 (50.0%)
+6,Age (Years),60.11 (15.85)
+7,Symptoms,
+8,  sin diagnostico,888 (14.8%)
+9,  sin sintomas,608 (10.1%)
+10,  sobrepeso,583 (9.7%)
+11,  hipertension,344 (5.7%)
+12,"  Diabetes, sobrepeso",322 (5.4%)
+13,"  hiperlipidemia, sedentarismo",321 (5.3%)
+14,"  sedentarismo, sobrepeso",320 (5.3%)
+15,  Diabetes,310 (5.2%)
+16,"  sedentarismo, hipertension, sin diagnostico",304 (5.1%)
+17,  hipotension,296 (4.9%)
+18,"  anemia, fatiga",295 (4.9%)
+19,"  obesidad, hipertension, fatiga",288 (4.8%)
+20,  sedentarismo,285 (4.8%)
+21,"  fatiga, vision borrosa",282 (4.7%)
+22,"  sedentarismo, sed habitual y necesidad de beber",281 (4.7%)
+23,"  sedentarismo, obesidad",273 (4.5%)
+24,Tests,
+25,  Colesterol,185.47 (40.21)
+26,  HDL-Colesterol,54.92 (15.81)
+27,  Hb-Glicosilada,6.89 (1.38)
+28,  LDL-Calculado,103.66 (37.13)
+29,  Trigliceridos,141.04 (92.78)

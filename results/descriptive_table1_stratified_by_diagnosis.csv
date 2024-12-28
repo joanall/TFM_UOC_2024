@@ -1,0 +1,44 @@
+,Characteristic,Value
+0,Diagnosis: diabetic,
+1,  Sex,
+2,    Hombre,1719 (57.3%)
+3,    Mujer,1281 (42.7%)
+4,  Age (Years),62.73 (14.00)
+5,  Symptoms,
+6,"    Diabetes, sobrepeso",322 (10.7%)
+7,"    hiperlipidemia, sedentarismo",321 (10.7%)
+8,    Diabetes,310 (10.3%)
+9,    sin diagnostico,308 (10.3%)
+10,"    sedentarismo, hipertension, sin diagnostico",304 (10.1%)
+11,"    obesidad, hipertension, fatiga",288 (9.6%)
+12,"    fatiga, vision borrosa",282 (9.4%)
+13,"    sedentarismo, sed habitual y necesidad de beber",281 (9.4%)
+14,    sobrepeso,278 (9.3%)
+15,"    sedentarismo, obesidad",273 (9.1%)
+16,    hipertension,33 (1.1%)
+17,  Tests,
+18,    Colesterol,181.84 (38.93)
+19,    HDL-Colesterol,53.37 (15.37)
+20,    Hb-Glicosilada,7.20 (1.33)
+21,    LDL-Calculado,100.14 (35.00)
+22,    Trigliceridos,147.28 (96.76)
+23,Diagnosis: non_diabetic,
+24,  Sex,
+25,    Mujer,1713 (57.1%)
+26,    Hombre,1287 (42.9%)
+27,  Age (Years),57.50 (17.10)
+28,  Symptoms,
+29,    sin sintomas,608 (20.3%)
+30,    sin diagnostico,580 (19.3%)
+31,"    sedentarismo, sobrepeso",320 (10.7%)
+32,    hipertension,311 (10.4%)
+33,    sobrepeso,305 (10.2%)
+34,    hipotension,296 (9.9%)
+35,"    anemia, fatiga",295 (9.8%)
+36,    sedentarismo,285 (9.5%)
+37,  Tests,
+38,    Colesterol,193.50 (41.79)
+39,    HDL-Colesterol,58.58 (16.21)
+40,    Hb-Glicosilada,5.66 (0.70)
+41,    LDL-Calculado,110.84 (40.18)
+42,    Trigliceridos,127.00 (81.42)
